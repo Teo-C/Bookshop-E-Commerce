@@ -1,5 +1,7 @@
 # Bookshop-E-Commerce
 
+*2do cuatrimestre 2023*
+
 Este proyecto fue realizado en la materia Ingenieria de Software I, curso Leveroni, de la Facultad de Ingenieria, Universidad de Buenos Aires (UBA).
 
 Se trata de un sistema de E-Commerce web para una libreria. El mismo consta de un catalogo de libros, y se puede realizar acciones como crear un carrito, agregar libros al mismo, procesar la compra, y ver compras realizadas en otras ocaciones. Algunas funcionalidades fueron recortadas o simuladas con fines pedagocios y por cuestiones de tiempo.
